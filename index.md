@@ -22,4 +22,7 @@ __Downloading your R scripts onto your computer after the course__
 To download your scripts, select the files hat you wish to download by ticking the box to the left of the file name in the File navigator pane (Bottom RH pane) and then click on the little 'cog' icon labelled _more_.    
 In the resulting dropdown menu click on export and then a download dialog will let you decide where the files should be stored on your computer. NB if you have selected more than one file then they will be downloaded as a zip-file.    
 
+__Learning more about using Posit Cloud__    
+[Find the Cloud documentation here](https://docs.posit.co/cloud/)    
+
 ## Happy R programming!
