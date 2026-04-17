@@ -13,10 +13,10 @@ Alternatively you can use credentials for Google, Github or Clever if you have t
 
 __Getting the example data into your cloud environment__    
 In the Rstudio console, enter these two commands:    
-_download.file(url="https://github.com/cambiotraining/data-analysis-in-r-and-python/raw/refs/heads/main/data.zip",
-              destfile="data.zip")_   
+__download.file(url="https://github.com/cambiotraining/data-analysis-in-r-and-python/raw/refs/heads/main/data.zip",
+              destfile="data.zip")__   
               
-_unzip("data.zip")_   
+__unzip("data.zip")__   
 
 ![Getting course data](images/posit-cloud-get-R-data.png)
 This should result in a data.zip file and a data folder containing the course data files being visible in the file navigator pane in the bottom right-hand pane of the Rstudio screen.   
